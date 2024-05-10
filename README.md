@@ -4,7 +4,7 @@ This AI chatbot specializes in the medicinal herbs of Africa, offering deep insi
 Check out our video demo below!
 
 
-[![Thumbnail](demo/demo-1.png)](https://youtu.be/QPrEFo2E2S4)
+[![Thumbnail](revive\Demo\demo-1.png)](https://youtu.be/QPrEFo2E2S4)
 
 
 
