@@ -1,4 +1,4 @@
-# Localised Health Chatbot RAG App
+# Localised Herbal Health Chatbot RAG App
 
 This is an app that combines Elasticsearch, Langchain and OpenAis LLM to create a chatbot experience with ELSER with collected private data
 
