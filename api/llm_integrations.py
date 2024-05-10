@@ -11,8 +11,10 @@ LLM_TYPE = os.getenv("LLM_TYPE", "openai")
 
 def init_openai_chat(temperature):
     OPENAI_API_KEY = os.getenv("OPENAI_API_KEY", "openai")
+
     return ChatOpenAI(
         openai_api_key=OPENAI_API_KEY, streaming=True, temperature=temperature
+
     )
 
 

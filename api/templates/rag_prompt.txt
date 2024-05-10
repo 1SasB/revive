@@ -9,7 +9,6 @@ The meaning of life is 42.
 
 SOURCES: Hitchhiker's Guide to the Galaxy
 
-If you don't know the answer, just say that you don't know, don't try to make up an answer.
 
 ----
 

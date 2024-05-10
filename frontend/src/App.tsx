@@ -48,9 +48,9 @@ const App = () => {
   }
 
   const suggestedQueries = [
-    "What local herbs can help me loose weight faster?",
-    "Is Tabea Herbal Mixture FDA approved?",
-    "What are the active ingredients in Tabea Herbal Mixture",
+    "What is the english name of Duakokowa?",
+    "What herbs can help fight against malaria and what are their Akan names?",
+    "Can lemon really help me loose weight faster?",
   ]
 
   return (
