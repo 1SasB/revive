@@ -147,7 +147,7 @@ Remember to keep the `ES_INDEX` environment variable set to the index you want t
 #### Run API and frontend
 
 ```sh
-# Launch API app
+# Launch API app, you need to be in the api dir to run the command below
 flask run --port 3001
 
 # In a separate terminal launch frontend app
