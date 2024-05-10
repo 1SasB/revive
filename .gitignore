@@ -1,0 +1,9 @@
+frontend/build
+frontend/node_modules
+api/__pycache__
+api/.env
+.env
+.venv
+venv
+.DS_Store
+revive
