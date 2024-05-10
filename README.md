@@ -1,4 +1,9 @@
-# Localised Herbal Health Chatbot RAG App
+# Revive.Ai 
+This AI chatbot specializes in the medicinal herbs of Africa, offering deep insights and expertise in local remedies. 
+
+Check out our video demo below!
+[![Thumbnail](https://img.youtube.com/vi/QPrEFo2E2S4/0.jpg)](https://youtu.be/QPrEFo2E2S4)
+
 
 This is an app that combines Elasticsearch, Langchain and OpenAis LLM to create a chatbot experience with ELSER with collected private data
 
@@ -67,7 +72,9 @@ You can get your OpenAI key from the [OpenAI dashboard](https://platform.openai.
 
 ## Running the App
 
-Once you have indexed data into the Elasticsearch index, there are two ways to run the app: via Docker or locally. Docker is advised for testing & production use. Locally is advised for development.
+Once you have indexed data into the Elasticsearch index, there are two ways to run the app: via Docker or locally. Docker is advised for testing & production use. 
+
+Locally is advised for development. 
 
 ### Through Docker
 
